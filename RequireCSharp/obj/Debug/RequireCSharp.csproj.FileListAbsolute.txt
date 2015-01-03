@@ -1,0 +1,6 @@
+D:\code\github\RequireCSharp\trunk\RequireCSharp\RequireCSharp\bin\Debug\RequireCSharp.exe.config
+D:\code\github\RequireCSharp\trunk\RequireCSharp\RequireCSharp\bin\Debug\RequireCSharp.exe
+D:\code\github\RequireCSharp\trunk\RequireCSharp\RequireCSharp\bin\Debug\RequireCSharp.pdb
+D:\code\github\RequireCSharp\trunk\RequireCSharp\RequireCSharp\obj\Debug\RequireCSharp.csprojResolveAssemblyReference.cache
+D:\code\github\RequireCSharp\trunk\RequireCSharp\RequireCSharp\obj\Debug\RequireCSharp.exe
+D:\code\github\RequireCSharp\trunk\RequireCSharp\RequireCSharp\obj\Debug\RequireCSharp.pdb
